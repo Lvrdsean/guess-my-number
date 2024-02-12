@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 2 },
     shadowRadius: 6,
     shadowOpacity: 0.25,
-    backgroundColor: "#72063c",
+    backgroundColor: "#4e0329",
   },
   numberInput: {
     height: 50,
