@@ -41,6 +41,7 @@ function StartGameScreen({ onPickNumber }) {
           style={styles.numberInput}
           maxLength={2}
           keyboardType="number-pad"
+          keyboardAppearance="dark"
           autoCapitalize="none"
           autoCorrect={false}
           onChangeText={numberInputHandler}
